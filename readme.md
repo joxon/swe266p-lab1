@@ -1,11 +1,13 @@
 # swe266p-lab1
 
 Author: Junxian Chen
+
 Date: April 30, 2020
 
 ## easyre_1
 
 cs527{1_c4n_m3sS_w17H_StR1pPpPPPppPeD_b1N4Riez}
+
 cs527{I can mess with strippppppppped binaries}
 
 search->program text->"wrong"
@@ -13,16 +15,19 @@ search->program text->"wrong"
 ## easyre_2
 
 cs527{D0_y0u_l1ke_Kr4bbY_pAt71ez?}
+
 cs527{do you like krabby patties?}
 
 ## findme_1
 
 cs527{W3lc0meeeeee_to_5oF74R3_S3cUr1ty_cl4sSsSsS}
+
 cs527{Welcomeeeeee to softare security classssss}
 
 ## findme_2
 
 cs527{I_<3_mY_s0F7W4re_5EcUR1tY_cl4ss}
+
 cs527{I love my software security class}
 
 ```c
@@ -82,6 +87,7 @@ cs527{I love my software security class}
 ## findme_3
 
 cs527{H3y_MomMY_I_4m_a_h4Nds0me_R3V3rS3r}
+
 cs527{Hey mommy I am a handsome reverser}
 
 search->program text->"flag"
@@ -130,6 +136,7 @@ search->program text->"flag"
 ## findme4
 
 cs527{H0hoHOH0_m3RrY_ChR1s7m4s}
+
 cs527{hohohoho merry christmas}
 
 ```c
@@ -160,6 +167,7 @@ undefined4 FUN_080483c0(void)
 ## findme5
 
 cs527{I_rUn_0u7_oF_Fl4G_t3xTs}
+
 cs527{I run out of flag texts}
 
 ```c
